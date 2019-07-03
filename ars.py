@@ -1,3 +1,3 @@
-sda=list(map(int,input().split()))
-d11=max(sda)
+ssda=list(map(int,input().split()))
+d11=max(ssda)
 print(d11)
